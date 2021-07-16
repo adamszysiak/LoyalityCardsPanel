@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">LoyalityCardsPanel</string>
-    <string name="add_loyality_card_photo">Dodaj zdjęcie nowej karty</string>
-    <string name="Loyality_card_photos">Zdjęcia kart lojalnościowych</string>
+    <string name="take_loyalty_card_photo">Dodaj zdjęcie nowej karty</string>
+    <string name="loyalty_cards_photos">Zdjęcia kart lojalnościowych</string>
+    <string name="camere_device_error">Nie udało się włączyć <kamery></kamery></string>
 
 </resources>

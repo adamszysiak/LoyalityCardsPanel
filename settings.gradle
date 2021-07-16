@@ -1,2 +1,2 @@
-rootProject.name = "LoyalityCardsPanel"
+rootProject.name = "LoyaltyCardsPanel"
 include ':app'

@@ -6,17 +6,19 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/take_loyalty_card_photo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/add_loyality_card_photo"
+        android:text="@string/take_loyalty_card_photo"
         android:layout_gravity="center">
 
     </Button>
 
     <Button
+        android:id="@+id/loyalty_cards_photos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/Loyality_card_photos"
+        android:text="@string/loyalty_cards_photos"
         android:layout_gravity="center">
     </Button>
 
